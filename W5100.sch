@@ -4,12 +4,12 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "W5100 Ehternet Controller"
+Date "2019-04-05"
+Rev "V 2.1"
 Comp ""
-Comment1 ""
-Comment2 ""
+Comment1 "@crisap94"
+Comment2 "Based on the Schematic provided by Wiznet on the Arduino Ethernet shield."
 Comment3 ""
 Comment4 ""
 $EndDescr
